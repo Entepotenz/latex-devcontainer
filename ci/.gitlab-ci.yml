@@ -1,4 +1,4 @@
-image: texlive/texlive:latest-full
+image: texlive/texlive:latest-full@sha256:4984977ccf5afe883cb382d0163f267de0d029d140bb7a9e8f4c19f0b781d57b
 
 variables:
   FILE_NAME: "root"
